@@ -1,5 +1,0 @@
-# Ceto Components
-
-## Forgerock
-
-## GCP
